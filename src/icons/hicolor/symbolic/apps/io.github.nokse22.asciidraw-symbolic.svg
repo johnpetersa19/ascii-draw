@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="io.github.nokse22.asciidraw-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="16.771689"
+     inkscape:cx="7.9598423"
+     inkscape:cy="9.3908252"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers"
+     id="rect2"
+     width="7"
+     height="9"
+     x="1"
+     y="1" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers"
+     id="rect3"
+     width="4"
+     height="5"
+     x="11"
+     y="10" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers"
+     d="M 4,7 H 5"
+     id="path3"
+     inkscape:path-effect="#path-effect3"
+     inkscape:original-d="M 4,7 H 5"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers"
+     d="M 4,4 H 5"
+     id="path4"
+     inkscape:path-effect="#path-effect4"
+     inkscape:original-d="M 4,4 H 5"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers"
+     d="m 1,13 v 2"
+     id="path5"
+     inkscape:path-effect="#path-effect6"
+     inkscape:original-d="m 1,13 v 2"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers"
+     d="M 1,15 H 8"
+     id="path7"
+     inkscape:path-effect="#path-effect7"
+     inkscape:original-d="M 1,15 H 8"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers"
+     d="m 1,10 v 5"
+     id="path8"
+     inkscape:path-effect="#path-effect9"
+     inkscape:original-d="m 1,10 v 5"
+     sodipodi:nodetypes="cc"
+     transform="translate(12,-8)" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers"
+     d="M 7,15 H 9"
+     id="path9"
+     inkscape:path-effect="#path-effect11"
+     inkscape:original-d="M 7,15 H 9"
+     sodipodi:nodetypes="cc"
+     transform="translate(4,-13)" />
+</svg>

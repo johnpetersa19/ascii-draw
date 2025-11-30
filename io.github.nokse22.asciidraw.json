@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.nokse22.asciidraw",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "48",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "ascii-draw",
     "finish-args" : [
@@ -22,8 +22,8 @@
         "*.a"
     ],
     "modules" : [
-	"python3-pyfiglet.json",
-	"python3-emoji.json",
+        "build-aux/python3-pyfiglet.json",
+        "build-aux/python3-emoji.json",
         {
             "name" : "ascii-draw",
             "builddir" : true,
